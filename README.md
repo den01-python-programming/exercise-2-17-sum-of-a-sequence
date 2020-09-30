@@ -1,4 +1,4 @@
-# Exercise 2.17 Sum of a seqeuence
+# Exercise 2.17 Sum of a sequence
 
 Implement a program, which calculates the sum 1+2+3+...+n where n is given as user input.
 
